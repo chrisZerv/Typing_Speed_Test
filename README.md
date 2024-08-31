@@ -16,7 +16,7 @@ This Typing Speed Test application is a desktop tool built with Python's Tkinter
 
 ## Screenshots
 
-
+<img src=preview_img/typing_speed_test.png >
 
 ## Installation
 
