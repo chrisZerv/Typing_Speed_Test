@@ -64,3 +64,6 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 - This project was built using Python and Tkinter.
 - Inspiration for this project came from the need to improve typing skills with a simple, yet effective tool.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
